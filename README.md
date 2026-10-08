@@ -1,2 +1,2 @@
-# hack-toolkit
-Lightweight Python GUI network reconnaissance toolkit for Kali Linux and Linux Mint with IP scanning, DNS, TCP ports, HTTP, TLS, traceroute, and reporting.
+sudo apt update
+sudo apt install -y python3 python3-tk iputils-ping traceroute tracepath whois
